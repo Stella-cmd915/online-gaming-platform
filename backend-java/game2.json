@@ -1,0 +1,11 @@
+{
+  "GameName": "MegaSlots",
+  "ProviderName": "SpinSoft",
+  "Stars": 3.8,
+  "NoOfVotes": 90,
+  "GameLogo": "logos/megaslots.png",
+  "MinBet": 5.0,
+  "MaxBet": 200.0,
+  "RiskLevel": "high",
+  "HashKey": "ms_secret_2025"
+}

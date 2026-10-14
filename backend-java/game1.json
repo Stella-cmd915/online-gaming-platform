@@ -1,0 +1,11 @@
+{
+  "GameName": "FortuneWheel",
+  "ProviderName": "SpinSoft",
+  "Stars": 4.2,
+  "NoOfVotes": 150,
+  "GameLogo": "logos/fortunewheel.png",
+  "MinBet": 1.0,
+  "MaxBet": 50.0,
+  "RiskLevel": "medium",
+  "HashKey": "fw_secret_2025"
+}
